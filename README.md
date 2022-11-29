@@ -90,7 +90,6 @@ void loop()
 }
 
 
-
 ** Simulation output:
 
 ![image](https://user-images.githubusercontent.com/118738931/204518193-b1094038-f0b6-4ea3-a344-51cdfe830cea.png)
