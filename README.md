@@ -69,6 +69,7 @@ CIRCUIT DIAGRAM
 **PROGRAM** 
  
 int sensorvalue = A0;
+
 int LED=7;
 void setup()
 {
